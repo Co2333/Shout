@@ -12,7 +12,7 @@
       },
       {
         "package": "CSSH",
-        "repositoryURL": "https://github.com/DimaRU/Libssh2Prebuild.git",
+        "repositoryURL": "https://github.com/Co2333/Libssh2Prebuild.git",
         "state": {
           "branch": null,
           "revision": "631d39784b593505a1b37341cda80055363bc753",
